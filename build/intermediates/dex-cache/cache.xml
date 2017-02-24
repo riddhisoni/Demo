@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_e8113d8654d87c0e7e2427983b487be29a476926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_d2f180b602abee388f77e70aa8cfa6f86f6344cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7f65e1b4e1c5cb8ee49f5dd8459db1965048f750">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2c631343961b6e7a9167f99b6dd8d82a1fccfba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f1dd05954e7e6be42db577d0b33d886b7811264d">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2c631343961b6e7a9167f99b6dd8d82a1fccfba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="587689a78f1b14470ddcfd72b665608d9b85e953">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e82ae4b8251ebc7447df17892ad366ac99ba1110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_c8900e23ed92efe0958fab5b28b1b54e01f09103\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_b2e3485497347a6761cec01bebd75070ce4820e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fb4054edc3fd7f41c1155afec712b4adcba81066">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e82ae4b8251ebc7447df17892ad366ac99ba1110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_e28f239d5b21bc6d10a08cadc584323a8befac74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\harsh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\harsh\Downloads\AndroidScannerDemo-master\ScanDemoExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_cd9e88db68f3c162325aa581967574e619f4109c\classes.dex" />
+    </item>
+
+</items>
